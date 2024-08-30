@@ -26,3 +26,10 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
   I am eager to continue pushing the boundaries of innovation and look forward to future advancements and projects. Stay tuned for more updates!
 
 </details>
+
+
+## Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/jeewantha-sadaruwan-53922a261)
+- [GitHub](https://github.com/adampithewan) 
+- [Email](mailto:adampithewan@example.com) 
