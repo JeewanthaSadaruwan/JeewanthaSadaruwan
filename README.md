@@ -28,9 +28,6 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 </details>
 
 ## Connect with Me
-
-## Connect with Me
-
 <a href="https://www.linkedin.com/in/jeewantha-sadaruwan-53922a261" target="_blank">
-  <img src="https://github.com/user-attachments/assets/7326ed92-d975-4c98-bb34-8991cc099817" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://github.com/user-attachments/assets/7326ed92-d975-4c98-bb34-8991cc099817" alt="LinkedIn" width="60" height="60"/>
 </a>
