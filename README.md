@@ -36,7 +36,6 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a>
+<p align="left">
+  <img src="![1_a1lHeMw5n3WIINYnH28uAA](https://github.com/user-attachments/assets/b6861441-6130-435f-b191-ba08cf5a74a8)"alt="android" width="40" height="40" /> </a>
 </p>
