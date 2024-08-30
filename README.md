@@ -29,6 +29,8 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 
 
 ## Connect with Me
-<a href="www.linkedin.com/in/jeewantha-sadaruwan-53922a261" target="_blank">
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=8sBR6Vzj&id=B696CC15B646B0E473C304479D4FD0FBB7E640E2&thid=OIP.8sBR6VzjdJcBOyjsl9HABQHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f021%2f460%2f490%2foriginal%2flinkedin-logo-free-download-free-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f2c051e95ce37497013b28ec97d1c005%3frik%3d4kDmt%252fvQT51HBA%26pid%3dImgRaw%26r%3d0&exph=1920&expw=1920&q=linkedin+&simid=608047548981541925&FORM=IRPRST&ck=6280436ACC4807D124950359F345E680&selectedIndex=1&itb=1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/jeewantha-sadaruwan-53922a261" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
