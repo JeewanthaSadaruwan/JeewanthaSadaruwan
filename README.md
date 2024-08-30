@@ -13,7 +13,7 @@
   
 
 <details>
-  <summary>🛠️ My Projects</summary>
+   <summary>🛠️ My Projects</strong></summary>
  
 **[--Smart Organic Waste Management System](https://github.com/JeewanthaSadaruwan/IEEE-arduino-competition-project)** 🌟
 
