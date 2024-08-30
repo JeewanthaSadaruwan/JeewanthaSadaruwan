@@ -37,5 +37,5 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="![1_a1lHeMw5n3WIINYnH28uAA](https://github.com/user-attachments/assets/b6861441-6130-435f-b191-ba08cf5a74a8)"alt="android" width="40" height="40" /> </a>
+  <img src="![C++](https://github.com/user-attachments/assets/b6861441-6130-435f-b191-ba08cf5a74a8)"alt="android" width="40" height="40" /> </a>
 </p>
