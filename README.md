@@ -30,6 +30,7 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/jeewantha-sadaruwan-53922a261)
-- [GitHub](https://github.com/adampithewan) 
-- [Email](mailto:adampithewan@example.com) 
+- [LinkedIn](()(www.linkedin.com/in/jeewantha-sadaruwan-53922a261)
+
+- [Jeewansadaruwan987@gmail.com](![GMail-Android-R 0](https://github.com/user-attachments/assets/1b6f8825-d900-4af7-a17a-a2a09092321d)
+) 
