@@ -41,6 +41,6 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
-  <img src="https://github.com/user-attachments/assets/8484dceb-0be1-4479-a434-f58403c3fcfd" alt="Altium Designer" width="40" height="40" />
+  <img src="https://github.com/user-attachments/assets/8484dceb-0be1-4479-a434-f58403c3fcfd" alt="Altium Designer" width="60" height="40" />
 </p>
 
