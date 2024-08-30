@@ -41,7 +41,8 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/altium/altium-original.svg](https://www.bing.com/images/search?view=detailV2&ccid=K9TNH7kj&id=B6C9F0D62E24C658215A866258A1B54EEAF32187&thid=OIP.K9TNH7kjzU5eoFAPYycX_wHaD4&mediaurl=https%3a%2f%2fimages.g2crowd.com%2fuploads%2fproduct%2fimage%2fsocial_landscape%2fsocial_landscape_55da269609bde6556a387629b0594314%2faltium-altium-designer.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2bd4cd1fb923cd4e5ea0500f632717ff%3frik%3dhyHz6k61oVhihg%26pid%3dImgRaw%26r%3d0&exph=315&expw=600&q=altium+logo&simid=608007773259970478&FORM=IRPRST&ck=973D91BB096FE90BD20CCEF829F69788&selectedIndex=3&itb=1" alt="Altium Designer" width="40" height="40" />
+  <img src="![R (1)](https://github.com/user-attachments/assets/8484dceb-0be1-4479-a434-f58403c3fcfd)
+" alt="Altium Designer" width="40" height="40" />
 
 </p>
 
