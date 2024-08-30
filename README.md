@@ -1,4 +1,4 @@
-## Hi there, I'm Jeewantha Sadaruwan, an Engineering undergraduate in the Electronic and Telecommunication Department, University of Moratuwa, Sri Lanka 👋
+# Hi there, I'm Jeewantha Sadaruwan, an Engineering undergraduate in the Electronic and Telecommunication Department, University of Moratuwa, Sri Lanka 👋
 
 <!--
 **JeewanthaSadaruwan/JeewanthaSadaruwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
