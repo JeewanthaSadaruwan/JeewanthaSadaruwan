@@ -27,13 +27,10 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 
 </details>
 
-## Connect with Me
-
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jeewantha-sadaruwan-53922a261" target="blank"><img align="center"
-      src="[https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg](https://github.com/user-attachments/assets/7326ed92-d975-4c98-bb34-8991cc099817)"
-       height="30" width="40" /></a>
+      <img src="![OIP](https://github.com/user-attachments/assets/cfc61e88-0e37-4809-afa9-673ec1601341)
+" /> height="30" width="40" /></a>
 </p>
