@@ -14,7 +14,7 @@
 <details>
   <summary>🛠️ My Projects</summary>
  
-**[Smart Organic Waste Management System](https://github.com/JeewanthaSadaruwan/IEEE-arduino-competition-project)** 🌟
+**[--Smart Organic Waste Management System](https://github.com/JeewanthaSadaruwan/IEEE-arduino-competition-project)** 🌟
 
 I am excited to share that my team and I have achieved the First Runner-Up position in the Sri Lanka IEEE Challenge Sphere Arduino Challenge with my innovative project: **Smart Organic Waste Management System**!
 
