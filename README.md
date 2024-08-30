@@ -13,7 +13,7 @@
   
 
 <details>
-   <summary>🛠️ My Projects</strong></summary>
+   <summary><b> 🛠️ My projects 🏼</b></summary><br/>
  
 **[--Smart Organic Waste Management System](https://github.com/JeewanthaSadaruwan/IEEE-arduino-competition-project)** 🌟
 
@@ -28,6 +28,12 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 </details>
 
 ## Connect with Me
-<a href="https://www.linkedin.com/in/jeewantha-sadaruwan-53922a261" target="_blank">
-  <img src="https://github.com/user-attachments/assets/7326ed92-d975-4c98-bb34-8991cc099817" alt="LinkedIn" width="60" height="60"/>
-</a>
+
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jeewantha-sadaruwan-53922a261" target="blank"><img align="center"
+      src="[https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg](https://github.com/user-attachments/assets/7326ed92-d975-4c98-bb34-8991cc099817)"
+       height="30" width="40" /></a>
+</p>
