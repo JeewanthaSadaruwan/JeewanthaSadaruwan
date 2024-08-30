@@ -32,7 +32,7 @@ I am excited to share that my team and I have achieved the First Runner-Up posit
 <p align="left">
   <a href="www.linkedin.com/in/jeewantha-sadaruwan-53922a261" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/HasithaGallella/HasithaGallella/9ed2f151b8f0704d6eebeaa562fed659c04e0307/Images/linkedin.svg"
-      alt="xxxxxxx" height="30" width="40" /></a>
+      alt="xxxxxxx" height="30" width="50" /></a>
 </p>
 
 <br>
