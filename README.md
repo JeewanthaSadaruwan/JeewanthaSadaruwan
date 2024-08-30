@@ -11,12 +11,11 @@
 - I’m always eager to learn more and collaborate on innovative projects that push the boundaries of these technologies.
 
 ## 🛠️ My Projects
-- [ Smart Organic Waste Management System 🌟](https://github.com/JeewanthaSadaruwan/IEEE-arduino-competition-project) 
-Our team, Team JASPERN, proudly secured the First Runner-Up position in the Sri Lanka IEEE Challenge Sphere Arduino Challenge with our innovative project: Smart Organic Waste Management System.
+### Smart Organic Waste Management System 🌟
+**Team JASPERN** has proudly earned the First Runner-Up position in the Sri Lanka IEEE Challenge Sphere Arduino Challenge with our innovative solution: **Smart Organic Waste Management System**!
 
-This project integrates cutting-edge technology with sustainable practices to transform the way we handle organic waste. Our solution aims to make waste management more efficient and environmentally friendly, contributing to a greener future.
+This project represents a fusion of advanced technology and sustainable practices, designed to revolutionize the management of organic waste. Our system enhances efficiency and promotes environmental responsibility, paving the way for smarter waste management solutions.
 
-A heartfelt thank you to the IEEE Sri Lanka Section for the opportunity to showcase our work, and to the IEEE Industrial Electronics Society of SLTC for their invaluable support throughout the competition.
+We extend our deepest gratitude to the IEEE Sri Lanka Section for the opportunity to present our work and to the IEEE Industrial Electronics Society of SLTC for their crucial support throughout the competition.
 
-Stay tuned for more updates and breakthroughs from our team as we continue our journey of innovation and impact!
-- [Battle Robot Version 1](link-to-project) - Brief description of Project 2
+We’re enthusiastic about the future and eager to continue pushing the boundaries of innovation. Stay tuned for more updates and advancements from Team JASPERN!
