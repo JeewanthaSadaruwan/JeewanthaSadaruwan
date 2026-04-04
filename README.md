@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeewantha Sadaruwan, an Engineering undergraduate in the Electronic and Telecommunication Department, University of Moratuwa, Sri Lanka 👋
 
-<img src="https://github.com/user-attachments/assets/ecd09bc8-bf55-4b36-974f-2a32282720fb" width="400" align="Right" style="margin-right: 20px;">
+<img src="./WhatsApp%20Image%202026-04-04%20at%2020.26.34.jpeg" width="400" align="right" style="margin-right: 20px;">
 
 - 🔭 I'm currently a student at the University of Moratuwa, studying in the Department of Electronic and Telecommunication. I’m passionate about the intersection of robotics and machine learning, and I'm eager to contribute my skills to push the boundaries of robotics to new heights in the future.
 - In addition to my focus on robotics and machine learning, I am also knowledgeable about and actively learning PCB design and circuit design using Altium. This skillset complements my work in robotics and allows me to create more integrated and effective solutions.
