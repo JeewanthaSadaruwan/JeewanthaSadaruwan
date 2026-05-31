@@ -105,6 +105,11 @@ I am eager to continue pushing the boundaries of innovation and look forward to 
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JeewanthaSadaruwan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JeewanthaSadaruwan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -114,7 +119,12 @@ I am eager to continue pushing the boundaries of innovation and look forward to 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JeewanthaSadaruwan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🐍 My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JeewanthaSadaruwan/JeewanthaSadaruwan/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JeewanthaSadaruwan/JeewanthaSadaruwan/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://github.com/JeewanthaSadaruwan/JeewanthaSadaruwan/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=JeewanthaSadaruwan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
