@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeewantha Sadaruwan, an Engineering undergraduate in the Electronic and Telecommunication Department, University of Moratuwa, Sri Lanka 👋
 
-<img src="./WhatsApp%20Image%202026-04-04%20at%2020.26.34.jpeg" width="400" align="right" style="margin-right: 20px;">
+<img src="./me.jpeg" width="400" align="right" style="margin-right: 20px;">
 
 - 🔭 I am currently an Engineering undergraduate at the University of Moratuwa, studying in the Department of Electronic and Telecommunication Engineering, where I am building a strong foundation in both hardware and software domains.
 - 🤖 I am passionate about Robotics, Autonomous Systems, and Embodied AI, with a growing focus on Vision-Language Models (VLMs), Vision-Language-Action Models (VLAs), and Multi-Agent Systems that can operate intelligently in dynamic environments.
