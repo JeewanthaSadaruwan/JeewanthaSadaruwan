@@ -97,24 +97,20 @@ I am eager to continue pushing the boundaries of innovation and look forward to 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   </a>
 </p>
-
+<!--
+[# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JeewanthaSadaruwan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeewanthaSadaruwan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JeewanthaSadaruwan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeewanthaSadaruwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JeewanthaSadaruwan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=JeewanthaSadaruwan&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/JeewanthaSadaruwan)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   
+-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JeewanthaSadaruwan&limit=5&theme=dark&combine_all_yearly_contributions=true)
