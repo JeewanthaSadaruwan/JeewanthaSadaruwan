@@ -110,10 +110,9 @@ I am eager to continue pushing the boundaries of innovation and look forward to 
 ![](https://github-profile-trophy.vercel.app/?username=JeewanthaSadaruwan&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/JeewanthaSadaruwan)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   
--->
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JeewanthaSadaruwan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 ### 🐍 My Contributions
 <picture>
